@@ -1,5 +1,6 @@
 The project is built with .NET and follows a clean architecture approach.
 The main goal is to track focus sessions, process rewards asynchronously, and support public sharing of sessions.
+This project is implemented as a Clean Architecture / Modular Monolith with asynchronous background processing using RabbitMQ and PostgreSQL.
 Solution Structure
 FocusTrack.Api
 FocusTrack.Application
