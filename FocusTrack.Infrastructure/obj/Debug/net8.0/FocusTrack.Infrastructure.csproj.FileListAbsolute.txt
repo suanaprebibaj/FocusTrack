@@ -1,0 +1,17 @@
+C:\Users\Suana Prebibaj\Task\FocusTrack.Infrastructure\bin\Debug\net8.0\FocusTrack.Infrastructure.deps.json
+C:\Users\Suana Prebibaj\Task\FocusTrack.Infrastructure\bin\Debug\net8.0\FocusTrack.Infrastructure.dll
+C:\Users\Suana Prebibaj\Task\FocusTrack.Infrastructure\bin\Debug\net8.0\FocusTrack.Infrastructure.pdb
+C:\Users\Suana Prebibaj\Task\FocusTrack.Infrastructure\bin\Debug\net8.0\FocusTrack.Application.dll
+C:\Users\Suana Prebibaj\Task\FocusTrack.Infrastructure\bin\Debug\net8.0\FocusTrack.Domain.dll
+C:\Users\Suana Prebibaj\Task\FocusTrack.Infrastructure\bin\Debug\net8.0\FocusTrack.Application.pdb
+C:\Users\Suana Prebibaj\Task\FocusTrack.Infrastructure\bin\Debug\net8.0\FocusTrack.Domain.pdb
+C:\Users\Suana Prebibaj\Task\FocusTrack.Infrastructure\obj\Debug\net8.0\FocusTrack.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Suana Prebibaj\Task\FocusTrack.Infrastructure\obj\Debug\net8.0\FocusTrack.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suana Prebibaj\Task\FocusTrack.Infrastructure\obj\Debug\net8.0\FocusTrack.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Suana Prebibaj\Task\FocusTrack.Infrastructure\obj\Debug\net8.0\FocusTrack.Infrastructure.AssemblyInfo.cs
+C:\Users\Suana Prebibaj\Task\FocusTrack.Infrastructure\obj\Debug\net8.0\FocusTrack.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Suana Prebibaj\Task\FocusTrack.Infrastructure\obj\Debug\net8.0\FocusTra.25CC100F.Up2Date
+C:\Users\Suana Prebibaj\Task\FocusTrack.Infrastructure\obj\Debug\net8.0\FocusTrack.Infrastructure.dll
+C:\Users\Suana Prebibaj\Task\FocusTrack.Infrastructure\obj\Debug\net8.0\refint\FocusTrack.Infrastructure.dll
+C:\Users\Suana Prebibaj\Task\FocusTrack.Infrastructure\obj\Debug\net8.0\FocusTrack.Infrastructure.pdb
+C:\Users\Suana Prebibaj\Task\FocusTrack.Infrastructure\obj\Debug\net8.0\ref\FocusTrack.Infrastructure.dll

@@ -1,0 +1,11 @@
+C:\Users\Suana Prebibaj\Task\FocusTrack.Domain\bin\Debug\net8.0\FocusTrack.Domain.deps.json
+C:\Users\Suana Prebibaj\Task\FocusTrack.Domain\bin\Debug\net8.0\FocusTrack.Domain.dll
+C:\Users\Suana Prebibaj\Task\FocusTrack.Domain\bin\Debug\net8.0\FocusTrack.Domain.pdb
+C:\Users\Suana Prebibaj\Task\FocusTrack.Domain\obj\Debug\net8.0\FocusTrack.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suana Prebibaj\Task\FocusTrack.Domain\obj\Debug\net8.0\FocusTrack.Domain.AssemblyInfoInputs.cache
+C:\Users\Suana Prebibaj\Task\FocusTrack.Domain\obj\Debug\net8.0\FocusTrack.Domain.AssemblyInfo.cs
+C:\Users\Suana Prebibaj\Task\FocusTrack.Domain\obj\Debug\net8.0\FocusTrack.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Suana Prebibaj\Task\FocusTrack.Domain\obj\Debug\net8.0\FocusTrack.Domain.dll
+C:\Users\Suana Prebibaj\Task\FocusTrack.Domain\obj\Debug\net8.0\refint\FocusTrack.Domain.dll
+C:\Users\Suana Prebibaj\Task\FocusTrack.Domain\obj\Debug\net8.0\FocusTrack.Domain.pdb
+C:\Users\Suana Prebibaj\Task\FocusTrack.Domain\obj\Debug\net8.0\ref\FocusTrack.Domain.dll

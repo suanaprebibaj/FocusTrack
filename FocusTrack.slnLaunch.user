@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "FocusTrack.API\\FocusTrack.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FocusTrack.RewardWorker\\FocusTrack.RewardWorker.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FocusTrack.NotificationWorker\\FocusTrack.NotificationWorker.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

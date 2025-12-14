@@ -1,0 +1,35 @@
+version: "3.9"
+
+services:
+  ###############################################################
+  # POSTGRESQL DATABASE
+  ###############################################################
+  db:
+    image: postgres:16
+    container_name: focustrack-db
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: focustrack
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  ###############################################################
+  # RABBITMQ
+  ###############################################################
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: focustrack-rabbitmq
+    restart: always
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+    ports:
+      - "5672:5672"     # AMQP
+      - "15672:15672"   # Management UI
+
+volumes:
+  pgdata:

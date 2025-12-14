@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Suana Prebibaj\\Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EED0FD0-BF2D-4C25-B8D1-31CABA9C4C03}|FocusTrack.RewardWorker.Tests\\FocusTrack.RewardWorker.Tests.csproj|c:\\users\\suana prebibaj\\task\\focustrack.rewardworker.tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EED0FD0-BF2D-4C25-B8D1-31CABA9C4C03}|FocusTrack.RewardWorker.Tests\\FocusTrack.RewardWorker.Tests.csproj|solutionrelative:focustrack.rewardworker.tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94228368-5495-4AFE-B64F-3F19A5F746F3}|FocusTrack.RewardWorker\\FocusTrack.RewardWorker.csproj|c:\\users\\suana prebibaj\\task\\focustrack.rewardworker\\services\\rewardcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94228368-5495-4AFE-B64F-3F19A5F746F3}|FocusTrack.RewardWorker\\FocusTrack.RewardWorker.csproj|solutionrelative:focustrack.rewardworker\\services\\rewardcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\Suana Prebibaj\\Task\\docker-compose.infra.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:docker-compose.infra.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94228368-5495-4AFE-B64F-3F19A5F746F3}|FocusTrack.RewardWorker\\FocusTrack.RewardWorker.csproj|c:\\users\\suana prebibaj\\task\\focustrack.rewardworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94228368-5495-4AFE-B64F-3F19A5F746F3}|FocusTrack.RewardWorker\\FocusTrack.RewardWorker.csproj|solutionrelative:focustrack.rewardworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94228368-5495-4AFE-B64F-3F19A5F746F3}|FocusTrack.RewardWorker\\FocusTrack.RewardWorker.csproj|c:\\users\\suana prebibaj\\task\\focustrack.rewardworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94228368-5495-4AFE-B64F-3F19A5F746F3}|FocusTrack.RewardWorker\\FocusTrack.RewardWorker.csproj|solutionrelative:focustrack.rewardworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94228368-5495-4AFE-B64F-3F19A5F746F3}|FocusTrack.RewardWorker\\FocusTrack.RewardWorker.csproj|c:\\users\\suana prebibaj\\task\\focustrack.rewardworker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94228368-5495-4AFE-B64F-3F19A5F746F3}|FocusTrack.RewardWorker\\FocusTrack.RewardWorker.csproj|solutionrelative:focustrack.rewardworker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94228368-5495-4AFE-B64F-3F19A5F746F3}|FocusTrack.RewardWorker\\FocusTrack.RewardWorker.csproj|c:\\users\\suana prebibaj\\task\\focustrack.rewardworker\\services\\rabbitmqeventsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94228368-5495-4AFE-B64F-3F19A5F746F3}|FocusTrack.RewardWorker\\FocusTrack.RewardWorker.csproj|solutionrelative:focustrack.rewardworker\\services\\rabbitmqeventsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94228368-5495-4AFE-B64F-3F19A5F746F3}|FocusTrack.RewardWorker\\FocusTrack.RewardWorker.csproj|c:\\users\\suana prebibaj\\task\\focustrack.rewardworker\\services\\eventprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94228368-5495-4AFE-B64F-3F19A5F746F3}|FocusTrack.RewardWorker\\FocusTrack.RewardWorker.csproj|solutionrelative:focustrack.rewardworker\\services\\eventprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F92B20-B731-4F62-8341-30DFCA9EEA32}|FocusTrack.NotificationWorker\\FocusTrack.NotificationWorker.csproj|c:\\users\\suana prebibaj\\task\\focustrack.notificationworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F92B20-B731-4F62-8341-30DFCA9EEA32}|FocusTrack.NotificationWorker\\FocusTrack.NotificationWorker.csproj|solutionrelative:focustrack.notificationworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F92B20-B731-4F62-8341-30DFCA9EEA32}|FocusTrack.NotificationWorker\\FocusTrack.NotificationWorker.csproj|c:\\users\\suana prebibaj\\task\\focustrack.notificationworker\\services\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F92B20-B731-4F62-8341-30DFCA9EEA32}|FocusTrack.NotificationWorker\\FocusTrack.NotificationWorker.csproj|solutionrelative:focustrack.notificationworker\\services\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Suana Prebibaj\\Task\\FocusTrack.RewardWorker.Tests\\Tests.cs",
+              "RelativeDocumentMoniker": "FocusTrack.RewardWorker.Tests\\Tests.cs",
+              "ToolTip": "C:\\Users\\Suana Prebibaj\\Task\\FocusTrack.RewardWorker.Tests\\Tests.cs",
+              "RelativeToolTip": "FocusTrack.RewardWorker.Tests\\Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:39:32.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.infra.yml",
+              "DocumentMoniker": "C:\\Users\\Suana Prebibaj\\Task\\docker-compose.infra.yml",
+              "RelativeDocumentMoniker": "docker-compose.infra.yml",
+              "ToolTip": "C:\\Users\\Suana Prebibaj\\Task\\docker-compose.infra.yml",
+              "RelativeToolTip": "docker-compose.infra.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-12-14T00:12:14.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\Suana Prebibaj\\Task\\FocusTrack.RewardWorker\\Worker.cs",
+              "RelativeDocumentMoniker": "FocusTrack.RewardWorker\\Worker.cs",
+              "ToolTip": "C:\\Users\\Suana Prebibaj\\Task\\FocusTrack.RewardWorker\\Worker.cs",
+              "RelativeToolTip": "FocusTrack.RewardWorker\\Worker.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:34:16.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Suana Prebibaj\\Task\\FocusTrack.RewardWorker\\Program.cs",
+              "RelativeDocumentMoniker": "FocusTrack.RewardWorker\\Program.cs",
+              "ToolTip": "C:\\Users\\Suana Prebibaj\\Task\\FocusTrack.RewardWorker\\Program.cs",
+              "RelativeToolTip": "FocusTrack.RewardWorker\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:34:06.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Suana Prebibaj\\Task\\FocusTrack.RewardWorker\\appsettings.json",
+              "RelativeDocumentMoniker": "FocusTrack.RewardWorker\\appsettings.json",
+              "ToolTip": "C:\\Users\\Suana Prebibaj\\Task\\FocusTrack.RewardWorker\\appsettings.json",
+              "RelativeToolTip": "FocusTrack.RewardWorker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-13T23:34:04.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RewardCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Suana Prebibaj\\Task\\FocusTrack.RewardWorker\\Services\\RewardCalculator.cs",
+              "RelativeDocumentMoniker": "FocusTrack.RewardWorker\\Services\\RewardCalculator.cs",
+              "ToolTip": "C:\\Users\\Suana Prebibaj\\Task\\FocusTrack.RewardWorker\\Services\\RewardCalculator.cs",
+              "RelativeToolTip": "FocusTrack.RewardWorker\\Services\\RewardCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:34:03.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RabbitMqEventSubscriber.cs",
+              "DocumentMoniker": "C:\\Users\\Suana Prebibaj\\Task\\FocusTrack.RewardWorker\\Services\\RabbitMqEventSubscriber.cs",
+              "RelativeDocumentMoniker": "FocusTrack.RewardWorker\\Services\\RabbitMqEventSubscriber.cs",
+              "ToolTip": "C:\\Users\\Suana Prebibaj\\Task\\FocusTrack.RewardWorker\\Services\\RabbitMqEventSubscriber.cs",
+              "RelativeToolTip": "FocusTrack.RewardWorker\\Services\\RabbitMqEventSubscriber.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:34:00.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Suana Prebibaj\\Task\\FocusTrack.RewardWorker\\Services\\EventProcessor.cs",
+              "RelativeDocumentMoniker": "FocusTrack.RewardWorker\\Services\\EventProcessor.cs",
+              "ToolTip": "C:\\Users\\Suana Prebibaj\\Task\\FocusTrack.RewardWorker\\Services\\EventProcessor.cs",
+              "RelativeToolTip": "FocusTrack.RewardWorker\\Services\\EventProcessor.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAmwHMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:33:31.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\Suana Prebibaj\\Task\\FocusTrack.NotificationWorker\\Worker.cs",
+              "RelativeDocumentMoniker": "FocusTrack.NotificationWorker\\Worker.cs",
+              "ToolTip": "C:\\Users\\Suana Prebibaj\\Task\\FocusTrack.NotificationWorker\\Worker.cs",
+              "RelativeToolTip": "FocusTrack.NotificationWorker\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:32:59.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmailNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\Suana Prebibaj\\Task\\FocusTrack.NotificationWorker\\Services\\EmailNotifier.cs",
+              "RelativeDocumentMoniker": "FocusTrack.NotificationWorker\\Services\\EmailNotifier.cs",
+              "ToolTip": "C:\\Users\\Suana Prebibaj\\Task\\FocusTrack.NotificationWorker\\Services\\EmailNotifier.cs",
+              "RelativeToolTip": "FocusTrack.NotificationWorker\\Services\\EmailNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:32:40.965Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
