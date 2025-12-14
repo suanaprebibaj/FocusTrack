@@ -23,6 +23,8 @@ GET /api/Sessions
 POST /api/PublicLinks/{sessionId}
 
 Admin endpoints are protected by authorization and are not accessible in the local development setup.
+They require authentication and admin claims provided by an external
+identity provider.
 
 Background Processing
 
