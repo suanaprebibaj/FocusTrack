@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace FocusTrack.Infrastructure.Messaging
 {
-    //    public class RabbitMqOptions
-    //    {
-    //        public string HostName { get; set; } = "localhost";
-    //        public string ExchangeName { get; set; } = "focustrack.events";
-    //    }
+
     public class RabbitMqOptions
     {
         public string HostName { get; set; } = "localhost";

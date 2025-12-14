@@ -37,7 +37,6 @@ namespace FocusTrack.Infrastructure.Persistence
 
         public override async Task<int> SaveChangesAsync(CancellationToken ct = default)
         {
-            // Collect domain events from aggregates
             var domainEvents = ChangeTracker
                 .Entries<AggregateRoot<Guid>>()
                 .SelectMany(e => e.Entity.GetDomainEvents())

@@ -16,22 +16,6 @@ namespace FocusTrack.Infrastructure.Identity
         public CurrentUserService(IHttpContextAccessor httpContextAccessor)
             => _httpContextAccessor = httpContextAccessor;
 
-        //public Guid GetUserId()
-        //{
-        //    var user = _httpContextAccessor.HttpContext?.User;
-
-        //    var idStr = user?.FindFirstValue(ClaimTypes.NameIdentifier)
-        //              ?? user?.FindFirstValue("sub");
-
-        //    if (idStr is null)
-        //        throw new InvalidOperationException("No user id in claims.");
-
-        //    if (Guid.TryParse(idStr, out var id))
-        //        return id;
-
-        //    // If your Id is not Guid, you can map it, but for this task we assume Guid.
-        //    throw new InvalidOperationException("User id is not a valid Guid.");
-        //}
         public Guid GetUserId()
         {
             var userIdClaim = _httpContextAccessor.HttpContext?
